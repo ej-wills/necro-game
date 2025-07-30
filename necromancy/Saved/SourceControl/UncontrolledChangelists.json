@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/My PC/Desktop/Necromancy/necro game/necromancy/Content/Objects/Grave.uasset",
+				"C:/Users/My PC/Desktop/Necromancy/necro game/necromancy/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/My PC/Desktop/Necromancy/necro game/necromancy/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/5B/PXPN2XLC15CQPQXFZFJHS3.uasset",
 				"C:/Users/My PC/Desktop/Necromancy/necromancy/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
 				"C:/Users/My PC/Desktop/Necromancy/necromancy/Content/FPWeapon/Audio/FirstPersonTemplateWeaponFire02.uasset"
 			]
